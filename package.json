@@ -11,10 +11,11 @@
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^1.1.0",
     "svelte": "^3.52.0",
-    "vite": "^3.2.3"
-  },
-  "dependencies": {
+    "vite": "^3.2.3",
     "@commitlint/cli": "^17.2.0",
     "husky": "^8.0.2"
+  },
+  "dependencies": {
+
   }
 }
