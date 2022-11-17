@@ -13,5 +13,8 @@
     "svelte": "^3.52.0",
     "vite": "^3.2.3"
   },
-  "dependencies": {}
+  "dependencies": {
+    "axios": "^0.27.2",
+    "normalize.css": "^8.0.1"
+  }
 }
