@@ -23,7 +23,8 @@
   },
   "dependencies": {
     "axios": "^0.27.2",
-    "normalize.css": "^8.0.1"
+    "normalize.css": "^8.0.1",
+    "svelte": "^3.52.0"
   },
   "build": {
     "appId": "com.your-website.your-app",
